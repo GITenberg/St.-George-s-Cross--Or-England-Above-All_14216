@@ -1,0 +1,27 @@
+_repo: St.-George-s-Cross--Or-England-Above-All_14216
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keene, H. G. (Henry George)
+    alias: Keene, Henry George
+    birthdate: 1825
+    deathdate: 1915
+    gutenberg_agent_id: '643'
+    url: http://www.gutenberg.org/2009/agents/643
+description: ''
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Channel Islands -- History -- Puritan Revolution, 1642-1660 -- Fiction'
+title: St. George's Cross; Or, England Above All
+url: http://www.gutenberg.org/ebooks/14216
